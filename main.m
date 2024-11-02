@@ -54,6 +54,7 @@ fem_err_plot(pi./N_list, x_err, 10, ...
              'Eigen Function $H^1$ Error ($d = 3\sim7$)', 'Method', ...
              'eigs()', [-0.9 -2.2], ann_text)
 
+%----------------------------------------------------------------------
 %% 2-D FEM (Potential = 1/|x-y|)
 % Refenrece: solution when d = 8
 
