@@ -1,7 +1,3 @@
-
-%% DO NOT EDIT THIS CODE!!!
-%%% A copy (simplified version) of this code is fem_err_2d_simple()
-
 % 
 % Calculate the L2 or H1 Error of Two Function
 % 
