@@ -1,5 +1,5 @@
 % 
-% Calculate the L2 or H1 Error of Two Function
+% Calculate L2 or H1 Error between Two Functions
 % 
 % ERR = FEM_ERR_2D_UPDATE(V, W, X_BOUND, ERR_TYPE, GQO)
 %   Given 2 2-D functions in the form of a vector (function values on an 
